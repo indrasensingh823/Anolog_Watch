@@ -17,9 +17,10 @@ JavaScript: To add functionality and dynamic time tracking.
 <h3>Installation Instructions:</h3>
 
 1. Clone the repository using the following command:
+<br>
    <a>git clone https://github.com/your-username/analog-watch.git</a>
-2. Open the project folder in your code editor (like VSCode).
-3. Open the index.html file in a browser to see the analog watch in action.
+3. Open the project folder in your code editor (like VSCode).
+4. Open the index.html file in a browser to see the analog watch in action.
 
 <h3>How to Use:</h3>
 
